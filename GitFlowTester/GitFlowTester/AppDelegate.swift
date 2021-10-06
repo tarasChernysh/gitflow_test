@@ -17,6 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         print("feature 2")
         print("dev")
         print("dev")
+        print("de2v")
         return true
     }
 
