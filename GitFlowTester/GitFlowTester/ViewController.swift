@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
         print("dev")
+        print("dev")
+        print("dev")
+        
     }
 
 
